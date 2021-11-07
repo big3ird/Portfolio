@@ -11,7 +11,7 @@
 * Using power time curve relationship model and race calculator, extract the mean maximal output for the calculated race duration.
 
 
-![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/3.png)
-![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/2.png)
-![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/1.png)
-![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/4.png)
+![](/imagesP1/3.png)
+![](/imagesP1/2.png)
+![](/imagesP1/1.png)
+![](/imagesP1/4.png)

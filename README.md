@@ -12,6 +12,6 @@
 
 
 ![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/3.png)
-![alt text](image.jpg)
-![alt text](image.jpg)
-![alt text](image.jpg)
+![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/2.png)
+![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/1.png)
+![alt text](https://github.com/big3ird/Portfolio/blob/main/imagesP1/4.png)

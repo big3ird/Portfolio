@@ -1,4 +1,4 @@
-# Keegan Falconars Portfolio
+# Keegan Falconar's Projects
 
 
 ## [Project 1: Tack cycling and power performance analyser/race predictor shiny dashboard](https://github.com/big3ird/Portfolio/blob/main/Shiny_Dashboard.app)

@@ -10,3 +10,7 @@
 * Calculate race times and power requirements using enviromental conditions and other factors (rolling resistance, weight, avg of first lap power etc)
 * Using power time curve relationship model and race caluclator, extract the mean maximal output for calcualted race duration.
 
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
+![alt text](image.jpg)
